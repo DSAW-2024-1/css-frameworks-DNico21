@@ -6,6 +6,9 @@
 
 Este proyecto consiste en resolver un reto de HTML y CSS dos veces, una utilizando el framework Bootstrap y otra utilizando TailwindCSS. El objetivo principal es crear dos versiones del mismo diseño, siendo lo más parecidas posible al diseño original.
 
+## Link Boostrap
+- https://dsaw-2024-1.github.io/css-frameworks-DNico21
+
 ## Contexto
 
 El reto de HTML y CSS implica crear una página web responsive utilizando diferentes frameworks de estilos. Las imágenes necesarias para el diseño se encuentran dentro de la carpeta `assets`, mientras que los diseños de la página están ubicados en la carpeta `design`.
